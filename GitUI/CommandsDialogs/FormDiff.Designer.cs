@@ -115,7 +115,7 @@ namespace GitUI.CommandsDialogs
             // 
             this.DiffFiles.Dock = System.Windows.Forms.DockStyle.Fill;
             this.DiffFiles.Location = new System.Drawing.Point(0, 0);
-            this.DiffFiles.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.DiffFiles.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.DiffFiles.Name = "DiffFiles";
             this.DiffFiles.Size = new System.Drawing.Size(345, 602);
             this.DiffFiles.TabIndex = 0;
